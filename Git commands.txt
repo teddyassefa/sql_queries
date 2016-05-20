@@ -1,0 +1,25 @@
+1 . create a repositary with some name in github
+2. copy the https link on github
+
+3. open command prompt and navigate to a directory 
+
+4. use git clone command
+
+	eg git clone https://github.com/teddyassefa/sql_queries.git
+
+5. if you are migrating exsting projects copy the files to the directory
+6. if it is a new project work on the git directory
+7. work ... work ... modify ...delete ....files..
+...
+
+8. git add .      //adds files
+9. git commit -m "commit name"    //commit name can be any thing   eg finished my homework
+
+10 git push
+
+
+done
+
+
+
+git status will show you which files ared added or not.
